@@ -1,8 +1,6 @@
-<p align="center">
+<p>
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
-**ArslanKucukkafa/ArslanKucukkafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Arslan</h1>
 <h4 align="center">
