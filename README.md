@@ -1,7 +1,3 @@
-<p>
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Arslan</h1>
 <h4 align="center">
 
