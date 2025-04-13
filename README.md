@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Arslan
 
-Welcome to my GitHub! Here you'll find my personal projects — mostly developed using **Java** and **Spring Boot**, but I also enjoy working with other popular technologies.  
-Whether you're into programming or just curious about real-world software solutions, there's something here for everyone.
+You can find my personal projects here. While I primarily develop Java projects, I also work with other popular programming languages. However, you don’t need to be specifically interested in programming languages to explore my projects, as they cover a variety of subjects and application areas.
 
 ---
 
